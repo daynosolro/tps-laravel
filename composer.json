@@ -1,0 +1,15 @@
+{
+    "name": "jonat/proyecto_laravel_1_8_24",
+    "autoload": {
+        "psr-4": {
+            "Jonat\\ProyectoLaravel1824\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daynosolro",
+            "email": "daynosolro@gmail.com"
+        }
+    ],
+    "require": {}
+}
